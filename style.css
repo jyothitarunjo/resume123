@@ -1,0 +1,39 @@
+.main{
+width:100%;
+background-color:#c65e65;
+display: flex; 
+flex-direction: row;
+}
+.right{
+	width:65%;
+	border:2px solid red;
+	box-shadow: 5px 5px 5px black;
+	margin: 1px;
+	padding: 1%;
+	background-color: skyblue;
+}     
+.left{
+	width:30%;
+	border:5px solid black;
+	background-color: pink;
+}
+h1,
+h2{
+	font-size: 45px
+}
+@media only screen and (min-height: 480px){
+	.main{
+		display: flex;
+	}
+	.right{
+
+	}
+}
+table,tr,td{
+		border:2px solid red;
+		border-collapse: collapse;
+
+}
+
+
+}

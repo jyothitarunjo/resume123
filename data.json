@@ -1,0 +1,54 @@
+{
+	"datails":{
+		"name":"jyothi",
+		"image":"images.png",
+		"phone":"9292929292",
+		"email":"jyothijyothijo29@gmail.com"
+
+
+	},
+	"education":[
+		{
+			"cource":"B.tech",
+			"college":"MIC college",
+			"per":"75%"
+		},
+		{
+			"cource":"intermediate",
+			"college":"narayana jr college",
+			"per":"94%"
+
+		},
+		{
+			"cource":"ssc",
+			"college":"kennedy high school",
+			"per":"88%"
+
+		}
+	],
+	"skills":[
+		{
+			"title":"programming languages",
+			"output":[
+				  "c","c++","java","python"
+				]
+		},
+		{
+
+			"title":"operating systems",
+			"output":[
+					"windows","linux","MAC"
+
+			]
+		}
+	],
+	"career":
+		{
+			"co":"An association can have a name ans use that name to decide the nature of the relationship.We can also give the direction we intend to read the name"
+		
+		
+			
+		}
+	
+
+}
