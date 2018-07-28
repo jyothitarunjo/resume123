@@ -79,7 +79,8 @@ function carr(career){
 	d.classList.add("career")
 	right.appendChild(d);
 	var e=document.createElement("h1");
-	e.textContent="carrier objective";
+	e.textContent="Carrier Objective";
+	e.appendChild(document.createElement("HR"));
 	d.appendChild(e);
 	var para=document.createElement("p");
 	para.textContent=career.co;
